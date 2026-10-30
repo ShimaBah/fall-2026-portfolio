@@ -15,7 +15,8 @@ Sketch maps: see the `sketch-maps/` folder — one buffer map + frequency table 
 - LunenburgPossibleSite.png
 - BerwickPossibleSite.png
 - SEBerwickPossibleSite.png
+- SouthBerwickPossibleSite.png
 
-Note: South Berwick Possible Site is not in this folder yet — its image came out blank in the StoryMap print PDF, so it was not copied from there.
+All 9 sketch maps are now in this folder.
 
 Note: this StoryMap is currently shared with the course AGOL group only (Shima + instructor). A reader outside that group will reach a sign-in page until sharing is changed to Public. The ModelBuilder model itself lives in ArcGIS Pro / ArcGIS Online for the course and is not a separate file in this repo.
