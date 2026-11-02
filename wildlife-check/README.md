@@ -44,6 +44,18 @@ Result: "Great! Your data was sent successfully."
 
 This is a demo only. Gros Morne was chosen because it is a public park and known moose habitat (forest, bog, and water), not a city hill. It is not a real sighting, and it is not shown here as field collection.
 
+## My own Survey123 data — Data tab screenshot
+Image: `wildlife-check-demo-data.png` — cropped screenshot from the Survey123 website, Wildlife Check, Data tab, Nov 1, 2026.
+
+It shows my own survey data, not someone else's layer:
+- Top: Wildlife Check, Data tab, 1/1 record
+- Map: 1 red point, the demo record
+- Table: Moose, Animal seen, 1, EditDate 2026-11-01, 9:04 p.m.
+
+A CSV export from the Data tab was started Nov 1, but it stayed on "exporting" for several minutes, so the table screenshot above is used as the data proof instead. The demo record details are also listed in the Demo record section above.
+
+![Wildlife Check demo data, Data tab: Moose, Animal seen, 1, 2026-11-01 9:04 p.m.](wildlife-check-demo-data.png)
+
 ## Background data — why these species
 Source file: Wildlife Population Metrics, Government of Newfoundland and Labrador, via the Open Government Portal. Years 1980–2014, yearly totals, no locations. The survey adds the new location points, which is the project's new value.
 
@@ -56,30 +68,13 @@ What the chart shows, in plain words:
 
 The yearly totals file has no locations, so no X/Y coordinates were added to it. Adding a point to a whole-island yearly total would be wrong.
 
-## Government location map — Moose Management Areas (separate from Survey123)
-Map: `moose-management-areas-map.png` — cropped screenshot from ArcGIS Map Viewer, Nov 1, 2026.
-
-Source: "Moose Management Area's and Moose Jawbone Drop off Locations", Feature layer, Government of Newfoundland and Labrador, owner sarahhynes@gov.nl.ca_GNL, data updated Dec 18, 2025.
-Link: https://www.arcgis.com/home/item.html?id=ef32aabe2db545a281380e6030257606
-
-What the map shows, in plain words:
-- Black outline = a Moose Management Area, an area shape used for hunting rules. There are 54 such areas.
-- Green triangle = a Jawbone Drop off Location, a single place where hunters drop a jawbone. There are 63 such points.
-
-What this map is NOT:
-- It is not moose sightings.
-- It is not a population count at a point.
-- It is not Survey123 data.
-
-It is shown here as a separate, honest government location layer, to show that real location data can be mapped without inventing coordinates for the yearly totals file.
-
-![Moose Management Areas and Jawbone Drop off Locations, Newfoundland and Labrador](moose-management-areas-map.png)
-
 ## Files in this folder
 - `README.md` — this summary
 - `moose-caribou-1980-2014.png` — chart from the government CSV
-- `moose-management-areas-map.png` — government Moose Management Areas map, cropped screenshot, see above
+- `wildlife-check-demo-data.png` — my own Survey123 Data tab screenshot, see above
 - Wildlife Check XLSForm (.xlsx) — to be added from the exact Connect file, when uploaded. It is not recreated here from memory.
+
+Note: an earlier government Moose Management Areas map screenshot was removed from this folder, because that layer is government work, not my Survey123 work, and it did not prove my Survey123 skill.
 
 ## Safety note
 For real field use: keep a safe distance, never approach moose or bears, and record from a public place, not from home.
