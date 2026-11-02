@@ -36,7 +36,9 @@ Image: `wildlife-summary-data.png` — Wildlife Summary, Data tab, 6/6, with the
 ![Wildlife Summary data, 6 records](wildlife-summary-data.png)
 
 ## Part B — Map and analysis
-Map Viewer, ArcGIS Online, Nov 1, 2026, Untitled map (not saved as a public web map; the screenshot below is the proof).
+Map Viewer, ArcGIS Online, Nov 1, 2026, saved as "Wildlife Analysis Map", Owner GDAAShimaB_AGOL.
+
+Sharing note: the live map is private, Owner only. In the Share dialog, Organization and Everyone (public) were greyed out, with the note "Some share level options are limited by your sharing privileges." So outside sponsors cannot open the live map without NSCC sign-in. The screenshots in this folder are the public proof, not a live map link.
 
 Layers on the map:
 - Wildlife Check, my own Survey123 point, red point: Moose, Animal seen, 1, demo record, Gros Morne National Park area, near Rocky Harbour, Lat 49.396952, Lon -57.595005, EditDate 2026-11-01, 9:04 p.m. — see the wildlife-check folder for the Data tab proof.
